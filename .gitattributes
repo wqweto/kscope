@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.sln     merge=union
+*.luaproj merge=union
+*.config  merge=union
